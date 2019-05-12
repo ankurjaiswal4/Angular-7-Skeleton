@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+.restricted {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+  height: 100vh;
+  font-style: italic;
+}
+
+@import "~bootstrap/scss/bootstrap";
